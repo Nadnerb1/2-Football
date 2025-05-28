@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+html {
+  background: url("src/assets/GameDesigner.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Permanent Marker;
+}
+a {
+  all: unset;
+}
+a:hover {
+  cursor: pointer;
+}
