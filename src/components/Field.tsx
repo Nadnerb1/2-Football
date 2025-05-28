@@ -1,3 +1,5 @@
+// This whole thing is a huge mess that honestly shouldn't be seen by anyone, it's functional somehow (kinda) but I hate practically everything about it and plan to rework it all to not be so incredibly cursed
+
 import React, { useState, useRef, useEffect } from "react";
 
 interface MovementStep {
