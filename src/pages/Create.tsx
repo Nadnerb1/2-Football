@@ -4,7 +4,6 @@ const Create = () => {
   return (
     <>
       <DragDropArrowField />
-      <a href="/">Home</a>
     </>
   );
 };
