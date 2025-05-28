@@ -239,7 +239,7 @@ function DragDropArrowField() {
         ref={fieldRef}
         style={{
           width: "75vw",
-          height: "25w",
+          height: "25vw",
           background: 'url("src/assets/Field.svg")',
           backgroundSize: "cover",
           backgroundPosition: "center",

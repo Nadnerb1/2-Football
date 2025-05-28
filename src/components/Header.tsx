@@ -1,5 +1,9 @@
 const Header = () => {
-  return <h1>2% Football</h1>;
+  return (
+    <a href="/">
+      <h1>2% Football</h1>
+    </a>
+  );
 };
 
 export default Header;
